@@ -39,6 +39,7 @@ Getting started
 Install package using pip (prefer virtualenv)::
 
     pip install coinaddress
+    python -m pip install pysha3
 
 And you can start use provided CLI. Read help first::
 

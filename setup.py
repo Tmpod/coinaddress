@@ -15,7 +15,7 @@ requirements = [
     'ecdsa>=0.14.1',
     'base58>=1.0.3',
     'crypto>=1.4.1',
-    'pysha3>=1.0.2',
+    ## 'pysha3>=1.0.2', python -m pip install pysha3 is the ONLY way that pysha3 should be installed. not this current way.
 ]
 
 setup_requirements = ['pytest-runner', ]
